@@ -1,0 +1,11 @@
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\bin\Debug\netcoreapp2.1\AnagramAnalyze.deps.json
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\bin\Debug\netcoreapp2.1\AnagramAnalyze.runtimeconfig.json
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\bin\Debug\netcoreapp2.1\AnagramAnalyze.runtimeconfig.dev.json
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\bin\Debug\netcoreapp2.1\AnagramAnalyze.dll
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\bin\Debug\netcoreapp2.1\AnagramAnalyze.pdb
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\obj\Debug\netcoreapp2.1\AnagramAnalyze.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\obj\Debug\netcoreapp2.1\AnagramAnalyze.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\obj\Debug\netcoreapp2.1\AnagramAnalyze.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\obj\Debug\netcoreapp2.1\AnagramAnalyze.AssemblyInfo.cs
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\obj\Debug\netcoreapp2.1\AnagramAnalyze.dll
+C:\Users\marcu\source\repos\AnagramAnalyze\AnagramAnalyze\obj\Debug\netcoreapp2.1\AnagramAnalyze.pdb
